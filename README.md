@@ -1,2 +1,2 @@
 # Alura-Plus
-alura curso HTML/CSS, nao esta abrindo as imagens tirando isso ta tudo certinho.
+alura curso HTML/CSS, não está abrindo as imagens tirando isso tá tudo certinho.
